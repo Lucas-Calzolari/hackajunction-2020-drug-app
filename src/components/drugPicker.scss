@@ -1,0 +1,31 @@
+.drug-picker {
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 0px 900px 900px 0px;
+    padding: 10px;
+    padding-left: 20px;
+    .drug-button {
+        cursor: pointer;
+        margin-right: 30px;
+        width: 35px;
+        height: 35px;
+        position: relative;
+        background-color: transparent;
+        border: none;
+        img {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+        }
+    }
+    .drug-button:not(:last-child) {
+        display:none
+    }
+}
+
+.drug-picker:hover {
+    .drug-button:not(:last-child) {
+        display: unset;
+    }
+}
