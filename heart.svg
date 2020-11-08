@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="19px" viewBox="0 0 23 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0B2BDE14-EA74-4E31-9394-1BC6FA2FF11B@2x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F51932" offset="0%"></stop>
+            <stop stop-color="#FF00C4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.939178,0.010562 C7.42568256,0.010562 8.78177836,0.555752879 9.82203361,1.45502855 L8.23989254,4.10145728 L12.7143191,8.6633446 L9.38485994,13.3835556 L10.512502,18.812562 L10.457692,18.76562 L2.03715,10.381475 C0.78902,9.297623 -0.002498,7.70597 -0.002498,5.927186 C-0.002498,2.659586 2.657354,0.010562 5.939178,0.010562 Z M16.06025,0.010562 C19.342074,0.010562 22.002628,2.659586 22.002628,5.927186 C22.002628,7.70597 21.210928,9.297623 19.962798,10.381475 L19.962798,10.381475 L12.760502,17.552562 L11.9101796,13.3923944 L15.2398925,8.77221814 L10.741647,4.0420992 L12.4371972,1.2430103 C13.4390046,0.47078436 14.694469,0.010562 16.06025,0.010562 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ICONS" transform="translate(-132.000000, -624.000000)">
+            <g id="soul-loss" transform="translate(112.000000, 463.000000)">
+                <g id="Rectangle" transform="translate(20.000000, 161.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

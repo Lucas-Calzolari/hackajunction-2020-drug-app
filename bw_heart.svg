@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1E941435-B539-4ECE-875E-D0BF312AE19C@2x</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M43.697524,116.65384 C46.862032,118.452624 47.951698,122.425034 46.133113,125.526912 C45.142483,127.21582 43.492972,128.29261 41.686726,128.637552 L30.4309395,131.579921 L32.0708137,126.815997 L37.3800222,124.279604 L35.9677397,117.729258 L39.1320953,115.90033 C40.6407423,115.611882 42.2588117,115.836155 43.697524,116.65384 Z M33.939319,111.106948 C35.4018405,111.938338 36.4172033,113.234116 36.9088272,114.693653 L33.7699938,116.532357 L35.2499701,122.917816 L29.8884631,125.5453 L27.8772856,131.451112 L27.8772856,131.451112 L27.854815,131.387182 L27.854815,131.387182 L24.40273,118.813062 C23.802952,117.100208 23.925181,115.155148 24.916,113.466552 C26.735071,110.364388 30.774838,109.308424 33.939319,111.106948 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ICONS" transform="translate(-136.000000, -573.000000)">
+            <g id="Combined-Shape" transform="translate(112.000000, 463.000000)">
+                <use fill-opacity="0" fill="#FFFFFF" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

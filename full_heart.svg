@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="19px" viewBox="0 0 23 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>7A427CE4-B222-4241-B23B-47133C3F6AFF@2x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F51932" offset="0%"></stop>
+            <stop stop-color="#FF00C4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.002628,5.927186 C22.002628,2.659586 19.342074,0.010562 16.06025,0.010562 C13.917148,0.010562 12.045668,1.143722 10.99961,2.837393 C9.95428,1.143722 8.082254,0.010562 5.939178,0.010562 C2.657354,0.010562 -0.002498,2.659586 -0.002498,5.927186 C-0.002498,7.70597 0.78902,9.297623 2.03715,10.381475 L10.457692,18.76562 C10.601394,18.909071 10.79629,18.989396 10.99961,18.989396 C11.203138,18.989396 11.398554,18.909071 11.542412,18.76562 L19.962798,10.381475 C21.210928,9.297623 22.002628,7.70597 22.002628,5.927186 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10-Drugs" transform="translate(-320.000000, -709.000000)">
+            <g id="body" transform="translate(0.000000, 14.000000)">
+                <g id="Group" transform="translate(300.000000, 674.000000)">
+                    <g id="Rectangle" transform="translate(20.000000, 21.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
